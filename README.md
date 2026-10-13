@@ -1,2 +1,2 @@
 # Nebuchan
-Simple a calculator 
+my first website
